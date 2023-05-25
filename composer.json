@@ -1,0 +1,17 @@
+{
+	"name": "codeacioustech/com_data_exchange",
+	"description": "",
+	"minimum-stability": "stable",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "izhar",
+			"email": "email@example.com"
+		}
+	],
+	"require": {
+		"joomla/string": "^2.0.1",
+		"joomla/filesystem": "^2.0.2",
+		"ext-zip": "*"
+	}
+}
